@@ -17,8 +17,8 @@ const shapes: Record<number, Shape[]> = {
     
     { dots: [{x: 0, y: 0}, {x: 0, y: 1}, {x: 0, y: 2}], width: 1, height: 3 }, // | shape
     { dots: [{x: 0, y: 0}, {x: 1, y: 0}, {x: 2, y: 0}], width: 3, height: 1 }, // --- shape
-    { dots: [{x: 0, y: 2}, {x: 1, y: 1}, {x: 2, y: 0}], width: 3, height: 3 }  // / shape    
-    { dots: [{x: 0, y: 0}, {x: 1, y: 1}, {x: 2, y: 2}], width: 3, height: 3 }, // \ shape
+    { dots: [{x: 0, y: 2}, {x: 1, y: 1}, {x: 2, y: 0}], width: 3, height: 3 }, // / shape    
+    { dots: [{x: 0, y: 0}, {x: 1, y: 1}, {x: 2, y: 2}], width: 3, height: 3 }  // \ shape
   ],
   4: [
     { dots: [{x: 0, y: 0}, {x: 1, y: 0}, {x: 0, y: 1}, {x: 1, y: 1}], width: 2, height: 2 },  // square
