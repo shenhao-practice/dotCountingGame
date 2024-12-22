@@ -6,8 +6,6 @@ There are 3 pages
 - Result
 
 ## Project features
-
-
 - Game page
   - It displays a shape with the number of dots.
   - There are three answer options.
@@ -31,7 +29,7 @@ Configuration page
     - In challenge mode, the number of dots is a range, which is the minimum number of dots and the maximum number of dots.
 
 ## Current File Structure
-my-app/
+dotCountingGame/
 ├── app/
 │   ├── fonts/
 │   │   ├── GeistMonoVF.woff
